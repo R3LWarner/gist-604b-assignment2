@@ -8,20 +8,20 @@ Operating System: Windows 11
 Plugins used: none
 
 ## Completed Tutorials
--Making a Map https://www.qgistutorials.com/en/docs/3/making_a_map.html
--Working with Projections https://www.qgistutorials.com/en/docs/3/working_with_projections.html
--Working with Attributes https://www.qgistutorials.com/en/docs/3/working_with_attributes.html
--Importing Spreadsheets or CVS files https://www.qgistutorials.com/en/docs/3/importing_spreadsheets_csv.html
--Basic Vector Syling https://www.qgistutorials.com/en/docs/3/basic_vector_styling.html
--Basic Raster Styling and Analysis https://www.qgistutorials.com/en/docs/3/raster_styling_and_analysis.html
--Performing Table Joins https://www.qgistutorials.com/en/docs/3/performing_table_joins.html
--Performing Spatial Joins https://www.qgistutorials.com/en/docs/3/performing_spatial_joins.html
--Performing Spatial Queries https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html
--Calculating Areal Mean Rainfall https://www.qgistutorials.com/en/docs/3/areal_mean_rainfall.html
+- Making a Map https://www.qgistutorials.com/en/docs/3/making_a_map.html
+- Working with Projections https://www.qgistutorials.com/en/docs/3/working_with_projections.html
+- Working with Attributes https://www.qgistutorials.com/en/docs/3/working_with_attributes.html
+- Importing Spreadsheets or CVS files https://www.qgistutorials.com/en/docs/3/importing_spreadsheets_csv.html
+- Basic Vector Syling https://www.qgistutorials.com/en/docs/3/basic_vector_styling.html
+- Basic Raster Styling and Analysis https://www.qgistutorials.com/en/docs/3/raster_styling_and_analysis.html
+- Performing Table Joins https://www.qgistutorials.com/en/docs/3/performing_table_joins.html
+- Performing Spatial Joins https://www.qgistutorials.com/en/docs/3/performing_spatial_joins.html
+- Performing Spatial Queries https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html
+- Calculating Areal Mean Rainfall https://www.qgistutorials.com/en/docs/3/areal_mean_rainfall.html
 
 ## Skills Demonstrated
--working with coordinate reference systems (CRS)
--Attribute table editing and joins
+- working with coordinate reference systems (CRS)
+- Attribute table editing and joins
 
 ## Reflection
 what concepts became clearer through hands-on work?
